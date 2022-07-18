@@ -8,7 +8,11 @@ multilingual: true
 
 {% include multilingual-sel.html %}
 
-
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
 
 <!-- English Version -->
 <div class="en post-container">
@@ -27,7 +31,6 @@ multilingual: true
     </div>
 </div>
 -->
-
 <!-- disqus 评论框 end -->
 
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
