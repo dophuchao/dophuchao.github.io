@@ -77,9 +77,9 @@ netease_comment: false
 
 
 # Sidebar settings
-#sidebar: true                           # whether or not using Sidebar.
-#sidebar-about-description: ""
-#sidebar-avatar: https://i1.rgstatic.net/ii/profile.image/1156306991882242-1652696478499_Q128/Do-Hao-3.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "PhD student"
+sidebar-avatar: https://i1.rgstatic.net/ii/profile.image/1156306991882242-1652696478499_Q128/Do-Hao-3.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -106,28 +106,16 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序（Midare）",
-        href: "http://mida.re/"
+        title: "Site Google",
+        href: "https://sites.google.com/view/dophuchao/"
     },{
-        title: "Sherry Woo",
-        href: "https://sherrywoo.me/"
+        title: "Youtube",
+        href: "https://www.youtube.com/c/%C4%90%E1%BB%97Ph%C3%BAcH%E1%BA%A3o"
     },{
-        title: "Kun Qian",
-        href: "http://kunq.me"
+        title: "GitHub",
+        href: "https://github.com/dophuchao"
     },{
-        title: "Ebn Zhang",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "Medium",
+        href: "https://medium.com/@haodp.sut"
     }
 ]
