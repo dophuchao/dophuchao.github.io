@@ -117,5 +117,8 @@ friends: [
     },{
         title: "Medium",
         href: "https://medium.com/@haodp.sut"
+    }, {
+        title: "ORCID",
+        href: "https://orcid.org/0000-0003-0645-0021"
     }
 ]
