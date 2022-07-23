@@ -11,6 +11,8 @@ tags:
     - Python
 ---
 
+I am a PhD student focusing applied AI on info-communication technologies at the Bonch-Bruevich Saint-Petersburg University of Telecommunications.
+> 本篇为该系列第一篇 —— 行业与战略，让我们聊聊行业、战略与格局。
 
 ## C++ 
 ```c++
