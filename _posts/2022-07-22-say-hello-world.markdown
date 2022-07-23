@@ -6,21 +6,24 @@ date:       2022-07-22 12:00:00
 author:     "Hao Do"
 header-img: "img/home-bg-o.jpg"
 tags:
-    - Hello 
+    - HelloWorld
+    - C++
+    - Python
 ---
 
-<br><b>Say Hello world</b><br>
 
-```html
-<p> Hello world </p>
+## C++ 
+```c++
+#include "iostream"
+using namespace std;
 
-<style>
-p { color: red;}
-</style>
+int main() {
+    printf("Hello world");
+    return 0;
+}
 ```
 
-<br><b>Say Hello world</b><br>
-
+## Python 
 
 ```python
 print("Hello world!")
