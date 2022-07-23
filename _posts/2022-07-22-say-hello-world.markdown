@@ -9,10 +9,15 @@ tags:
     - HelloWorld
     - C++
     - Python
+    - Java
 ---
 
-I am a PhD student focusing applied AI on info-communication technologies at the Bonch-Bruevich Saint-Petersburg University of Telecommunications.
-> 本篇为该系列第一篇 —— 行业与战略，让我们聊聊行业、战略与格局。
+Computers are dumb. They only do what they’re told. How do you tell a computer what to do? You use a programming language. The very first thing you’ll do when learning a new programming language is how to make the computer display “Hello, World”.
+
+There is no perfect programming language, they all offer something a little different, and there are hundreds of programming languages with new ones being created every day.
+
+
+> Here is a selection of programming languages that have a place in the programming hall of fame. They’re all either used today or have contributed something to the art of computer languages.
 
 ## C++ 
 ```c++
@@ -29,4 +34,13 @@ int main() {
 
 ```python
 print("Hello world!")
+```
+
+## Java
+```java
+public class HelloWorld {
+    public void main(String[] args){
+        System.out.println("Hello World!");
+    }
+}
 ```
