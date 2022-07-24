@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "PhD student"
-sidebar-avatar: https://i1.rgstatic.net/ii/profile.image/1156306991882242-1652696478499_Q128/Do-Hao-3.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://i1.rgstatic.net/ii/profile.image/1181491514081284-1658700936689_Q64/Do-Hao-3.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
