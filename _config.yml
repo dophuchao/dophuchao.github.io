@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "PhD student"
-sidebar-avatar: https://ibb.co/d6gzHR8 # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://dophuchao.github.io/img/chandung.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
